@@ -7,7 +7,7 @@ If you're having trouble with your project, open an issue on this repository, an
 
 1. navigate to the [issues page](https://github.com/sei-ec-remote/project-1-issues/issues)
 2. click the [New Issue Button](https://github.com/sei-ec-remote/project-1-issues/issues/new/choose)
-3. click the [Get Started Button]()
+3. click the [Get Started Button](https://github.com/sei-ec-remote/project-1-issues/issues/new?assignees=&labels=&template=game-project-issue-template.md&title=Game+project+issue)
 4. Title your issue something relevant to the problem
 5. Follow the issue queue template without deleting any of the pre-written prompts
 6. Submit the new issue
